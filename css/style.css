@@ -8,3 +8,30 @@
 .navButton{
   width:20px
 }
+
+.float_right{
+  display:inline-block;
+  float:right;
+}
+
+section{
+  margin-left:20px;
+  margin-right:20px;
+  margin-top:50px;
+  margin-bottom: :20px;
+}
+body{
+  background-color:#00B3F5;
+  color:white;
+}
+
+.left_margin{
+  left-margin:20px;
+}
+
+h1{
+  color:white;
+}
+small{
+  color:white;
+}
